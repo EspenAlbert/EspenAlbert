@@ -43,9 +43,15 @@ work_hours | 2039.62 | 1936.26 | 536.19 | 38.18
 - `pypi_package` are 3rd party packages used, see list in [requirements.txt](./requirements.txt)
 - `python_package` are local packages I have created
 - any metric named `*_add/del` are LoC (Lines of Code)
+- break% is `break_time` / `total_hours`, where break_time is going to the bathroom, pomodoro break, quick snack, coffee, etc.
+- deep_{life/work}% are inspired by [Cal Newport](https://www.calnewport.com/) where I track time either as _deep_ (focused work, e.g., coding, design writing, research, etc.) or _shallow_ (virtual meeting with many participants, slack chats, email replying, etc.)
+- overtime is whatever `work_hours - 7.5` per day and aggregated per Δ week
 
 ## Commit count
 ![img.png](commit_count.png)
 
 ## LoC (Lines of Code)
 ![img.png](loc_count.png)
+
+## Deep work
+![img.png](deep_work.png)

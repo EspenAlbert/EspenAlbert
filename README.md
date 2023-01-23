@@ -54,4 +54,5 @@ work_hours | 2039.62 | 1936.26 | 536.19 | 38.18
 ![img.png](loc_count.png)
 
 ## Deep work
+- filtered out where deep% > 0
 ![img.png](deep_work.png)

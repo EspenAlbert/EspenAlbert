@@ -13,19 +13,13 @@
   
 
 ### Let's create something!  
-I'm a remote full-stack developer who cares about every stage of the software development cycle, from idea to delivery.
-I specialize in python and DevOps but am happy to jump into other languages or roles.
-I love writing code and building tools by following a systematized workflow, staying focused, and tracking my progress.
-I hate long feedback cycles, bureaucracy, hive-mind workflows, unnecessary deadlines, and closed mindsets.
+I'm a remote full-stack developer specializing in python and working as a DevOps engineer. I have a master's degree in Computer Science from the Norwegian University of Science and technology. 
+I care about every stage of the software development cycle, from idea to delivery. I'm passionate about writing clear code and building helpful tools. 
 
-Love or hate, I try to take everything with a smile and be positive in all interactions.
-I want to learn daily and have a never-ending list of tools to explore and use.
-I prefer being a technician over a manager as I enjoy creating more than managing.
-I seek feedback and wish to share mine. Although we are on a deadline, the long run matters, and without feedback, we are stuck in the same loop.
+I have the ability to stay focused, and I'm obsessed with learning and improving my skills. I enjoy having a never-ending list of tools to explore and use. I seek feedback and expect to be able to share mine. I have a positive attitude and try to take everything with a smile. I'm more of a hands-on type than a manager.
+I use systematized workflows and weekly/quarterly summaries to reflect and plan how I spend time and get better. 
 
-Between code blocks, I like to climb, lift weights, walk on my hands, explore nature, and try new activities or sports.
-I believe in improving the world through code and am on a mission to build and use skills for good.
-  
+When not coding, I like to climb, lift weights, walk on my hands, explore nature, and try new activities or sports. I believe in improving the world through code and am on a mission to build and use skills for good.  
   
 
 <br/>  

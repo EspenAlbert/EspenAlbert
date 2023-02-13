@@ -1,4 +1,4 @@
-# 2023-02-06T00:00:00+00:00
+# 2023-02-13T00:00:00+00:00
 Flask
 GitPython
 Inject
@@ -12,6 +12,7 @@ aiohttp
 ansi2html
 appdirs
 astor
+azure-devops
 black
 boto3
 cachetools
@@ -46,6 +47,7 @@ logmatic-python
 lxml
 matplotlib
 motor
+msrest
 numpy
 opencv-python-headless
 openpyxl

@@ -26,7 +26,7 @@ When not coding, I like to climb, lift weights, walk on my hands, explore nature
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on [Commit Stats](projects/commit_stats.md) a project for tracking my contributions/focus across Gitlab/ADO/Github and different languages  
+- 🔭 I’m currently working on [AnkiCLI.md](projects/anki_cli.md) a cli for creating flashcards in [anki](https://apps.ankiweb.net/) to store information for long-term after taking notes    
 - 🌱 I’m currently learning Spanish, Istio, and Go  
 - ❓ Ask me about anything related to the Python language  
 - ⚡ Fun fact: I use a [split keyboard](https://www.zsa.io/moonlander/) and always travel with a 27'' screen in the suitcase  
@@ -72,15 +72,15 @@ When not coding, I like to climb, lift weights, walk on my hands, explore nature
 
 ## Key metrics
 <!-- KEY-METRICS:START -->
-Key Metrics dumped @ `2023-02-13T06-25Z`
+Key Metrics dumped @ `2023-02-20T09-04Z`
 
 ### Commits
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-commit_features | 1874 | 1514 | 299 | 20
-commit_fixes | 974 | 809 | 189 | 9
-commit_total | 4645 | 3755 | 880 | 68
+commit_features | 1888 | 1497 | 300 | 14
+commit_fixes | 988 | 799 | 199 | 14
+commit_total | 4710 | 3706 | 923 | 65
 
 - Based on [Angular Commit message guideline](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-guidelines)
 
@@ -88,17 +88,17 @@ commit_total | 4645 | 3755 | 880 | 68
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-break% | 4.9 | 4.69 | 4.54 | 7
-deep_life% | 56.98 | 58.9 | 75.62 | 0
-deep_work% | 82.81 | 82.85 | 85.15 | 97
-life_days | 200 | 170 | 52 | 1
-life_hours | 328.12 | 301.42 | 113.41 | 1.29
-overtime | 320.39 | 246.02 | 28.34 | 0.88
+break% | 4.88 | 4.65 | 4.38 | 4
+deep_life% | 57.71 | 59.52 | 77.31 | 100
+deep_work% | 82.54 | 82.35 | 83.77 | 67
+life_days | 205 | 173 | 55 | 5
+life_hours | 334.7 | 304.92 | 117.52 | 6.58
+overtime | 325.07 | 239.31 | 32.43 | 4.68
 public_holidays | 11 | 11 | 2 | 0
 sick_days | 1 | 1 | 1 | 0
 vacation_days | 27 | 26 | 0 | 0
-work_days | 273 | 241 | 66 | 5
-work_hours | 2147.51 | 1911.04 | 500.84 | 38.39
+work_days | 278 | 241 | 66 | 5
+work_hours | 2189.7 | 1904.32 | 504.94 | 42.19
 
 - break% is `break_time` / `total_hours`, where break_time is going to the bathroom, pomodoro break, quick snack, coffee, etc.
 - deep_{life/work}% are inspired by [Cal Newport](https://www.calnewport.com/) where I track time either as _deep_ (focused work, e.g., coding, design writing, research, etc.) or _shallow_ (virtual meeting with many participants, slack chats, email replying, etc.)
@@ -110,18 +110,18 @@ work_hours | 2147.51 | 1911.04 | 500.84 | 38.39
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-config_add | 35447 | 30475 | 11561 | 610
-config_del | 14240 | 12521 | 5779 | 280
-docs_add | 28257 | 24644 | 7380 | 490
-docs_del | 9244 | 7651 | 1472 | 173
+config_add | 35975 | 30023 | 11874 | 528
+config_del | 14281 | 12318 | 5712 | 41
+docs_add | 28832 | 24633 | 6785 | 575
+docs_del | 9390 | 7510 | 1575 | 146
 go_add | 274 | 274 | 0 | 0
 go_del | 99 | 99 | 0 | 0
-python_add | 134662 | 115402 | 12428 | 1585
-python_del | 53602 | 43994 | 3035 | 694
-shell_add | 561 | 561 | 427 | 36
-shell_del | 167 | 167 | 167 | 30
-terraform_add | 19786 | 18589 | 13740 | 250
-terraform_del | 7824 | 7610 | 6419 | 30
+python_add | 138131 | 115520 | 15647 | 3469
+python_del | 54469 | 43224 | 3849 | 867
+shell_add | 567 | 567 | 433 | 6
+shell_del | 167 | 167 | 167 | 0
+terraform_add | 20054 | 18823 | 13047 | 268
+terraform_del | 7839 | 7619 | 6124 | 15
 
 - python is for files ending in: ".py",".pyi"
 - go is for files ending in: ".go"
@@ -134,13 +134,13 @@ terraform_del | 7824 | 7610 | 6419 | 30
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-design_spec | 11 | 8 | 3 | 0
-dockerfile | 40 | 27 | 5 | 1
+design_spec | 11 | 8 | 2 | 0
+dockerfile | 42 | 28 | 7 | 2
 helm_chart | 36 | 26 | 6 | 0
-pypi_package | 94 | 31 | 2 | 2
-python_package | 37 | 27 | 6 | 1
-terraform_module | 56 | 49 | 30 | 0
-uml_diagram | 34 | 31 | 9 | 0
+pypi_package | 95 | 31 | 3 | 1
+python_package | 37 | 27 | 6 | 0
+terraform_module | 57 | 50 | 28 | 1
+uml_diagram | 37 | 32 | 6 | 3
 <!-- KEY-METRICS:END -->
 - `pypi_package` are 3rd party packages used, see list in [requirements.txt](./requirements.txt)
 - `python_package` are local packages I have created

@@ -1,4 +1,4 @@
-# 2023-02-13T00:00:00+00:00
+# 2023-02-20T00:00:00+00:00
 Flask
 GitPython
 Inject
@@ -78,6 +78,7 @@ python-gitlab
 python-multipart
 python-semantic-release
 requests
+rich
 rx
 selenium
 selenium-wire

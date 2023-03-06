@@ -1,4 +1,4 @@
-# 2023-02-27T00:00:00+00:00
+# 2023-03-06T00:00:00+00:00
 Flask
 GitPython
 Inject
@@ -12,6 +12,7 @@ aiohttp
 ansi2html
 appdirs
 astor
+aws-lambda-typing
 azure-devops
 black
 boto3

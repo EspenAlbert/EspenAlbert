@@ -19,13 +19,14 @@ I care about every stage of the software development cycle, from idea to deliver
 I have the ability to stay focused, and I'm obsessed with learning and improving my skills. I enjoy having a never-ending list of tools to explore and use. I seek feedback and expect to be able to share mine. I have a positive attitude and try to take everything with a smile. I'm more of a hands-on type than a manager.
 I use systematized workflows and weekly/quarterly summaries to reflect and plan how I spend time and get better. 
 
-When not coding, I like to climb, lift weights, walk on my hands, explore nature, and try new activities or sports. I believe in improving the world through code and am on a mission to build and use skills for good.  
+When not coding, I like to climb, lift weights, walk on my hands, explore nature, and try new activities or sports. I believe in improving the world through code, and I'm on a mission to build and use skills for the greater good.  
   
 
 <br/>  
 
 
 ## Rapidfire  
+- 𐃏  I’m currently helping [wheel.me](https://wheel.me) to develop a Robotics as a Service product where I'm in charge of the cloud
 - 🔭 I’m currently working on [AnkiCLI.md](projects/anki_cli.md) a cli for creating flashcards in [anki](https://apps.ankiweb.net/) to store information for long-term after taking notes    
 - 🌱 I’m currently learning Spanish, Istio, and Go  
 - ❓ Ask me about anything related to the Python language  
@@ -72,15 +73,15 @@ When not coding, I like to climb, lift weights, walk on my hands, explore nature
 
 ## Key metrics
 <!-- KEY-METRICS:START -->
-Key Metrics dumped @ `2023-03-22T07-15Z`
+Key Metrics dumped @ `2023-03-27T07-32Z`
 
 ### Commits
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-commit_features | 2015 | 1523 | 349 | 16
-commit_fixes | 1020 | 771 | 191 | 4
-commit_total | 5024 | 3769 | 1057 | 67
+commit_features | 2018 | 1472 | 317 | 3
+commit_fixes | 1021 | 753 | 134 | 1
+commit_total | 5044 | 3690 | 946 | 20
 
 - Based on [Angular Commit message guideline](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-guidelines)
 
@@ -88,17 +89,17 @@ commit_total | 5024 | 3769 | 1057 | 67
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-break% | 4.79 | 4.5 | 4.31 | 1
-deep_life% | 58.81 | 61.75 | 80.77 | 0
-deep_work% | 81.97 | 81.1 | 78.77 | 43
-life_days | 213 | 170 | 44 | 0
-life_hours | 359.93 | 312.64 | 105.17 | 0
-overtime | 337.68 | 234.26 | 27.13 | -2.77
-public_holidays | 11 | 11 | 2 | 0
+break% | 4.75 | 4.44 | 4 | 2
+deep_life% | 59.45 | 63.25 | 80.77 | 100
+deep_work% | 81.06 | 79.79 | 73.08 | 24
+life_days | 214 | 167 | 44 | 1
+life_hours | 362.35 | 308.7 | 107.34 | 2.42
+overtime | 337.87 | 229.7 | 23.45 | 0.19
+public_holidays | 11 | 11 | 1 | 0
 sick_days | 1 | 1 | 1 | 0
-vacation_days | 28 | 25 | 1 | 1
-work_days | 297 | 242 | 63 | 4
-work_hours | 2344.81 | 1906.78 | 492.13 | 27.23
+vacation_days | 29 | 26 | 2 | 1
+work_days | 301 | 240 | 62 | 4
+work_hours | 2374.99 | 1894.71 | 480.94 | 30.18
 
 - break% is `break_time` / `total_hours`, where break_time is going to the bathroom, pomodoro break, quick snack, coffee, etc.
 - deep_{life/work}% are inspired by [Cal Newport](https://www.calnewport.com/) where I track time either as _deep_ (focused work, e.g., coding, design writing, research, etc.) or _shallow_ (virtual meeting with many participants, slack chats, email replying, etc.)
@@ -110,18 +111,18 @@ work_hours | 2344.81 | 1906.78 | 492.13 | 27.23
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-config_add | 40283 | 32133 | 13628 | 1267
-config_del | 14853 | 11155 | 6005 | 186
-docs_add | 30511 | 24217 | 6870 | 337
-docs_del | 9944 | 7654 | 1901 | 113
+config_add | 40316 | 30828 | 12427 | 33
+config_del | 14867 | 11057 | 5436 | 14
+docs_add | 30634 | 24004 | 6855 | 123
+docs_del | 9995 | 7616 | 1951 | 51
 go_add | 274 | 1 | 0 | 0
 go_del | 99 | 0 | 0 | 0
-python_add | 145852 | 118585 | 19333 | 256
-python_del | 57688 | 44367 | 6242 | 46
+python_add | 146001 | 116303 | 18969 | 149
+python_del | 57713 | 43395 | 6217 | 25
 shell_add | 605 | 605 | 373 | 0
 shell_del | 167 | 167 | 167 | 0
-terraform_add | 23098 | 21623 | 12151 | 55
-terraform_del | 8506 | 8232 | 6176 | 8
+terraform_add | 23098 | 21556 | 9903 | 0
+terraform_del | 8506 | 8069 | 5927 | 0
 
 - python is for files ending in: ".py",".pyi"
 - go is for files ending in: ".go"
@@ -135,11 +136,11 @@ terraform_del | 8506 | 8232 | 6176 | 8
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
 design_spec | 12 | 8 | 3 | 0
-dockerfile | 42 | 27 | 7 | 0
-helm_chart | 36 | 22 | 4 | 0
-pypi_package | 96 | 31 | 4 | 0
-python_package | 38 | 28 | 4 | 0
-terraform_module | 70 | 62 | 31 | 0
+dockerfile | 42 | 26 | 6 | 0
+helm_chart | 36 | 21 | 4 | 0
+pypi_package | 96 | 29 | 4 | 0
+python_package | 38 | 28 | 3 | 0
+terraform_module | 70 | 62 | 25 | 0
 uml_diagram | 39 | 32 | 8 | 0
 <!-- KEY-METRICS:END -->
 - `pypi_package` are 3rd party packages used, see list in [requirements.txt](./requirements.txt)

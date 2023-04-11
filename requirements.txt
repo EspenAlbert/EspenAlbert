@@ -1,4 +1,4 @@
-# 2023-04-03T00:00:00+00:00
+# 2023-04-10T00:00:00+00:00
 Flask
 GitPython
 Inject
@@ -21,6 +21,7 @@ cachetools
 certifi
 confluent-kafka
 coverage
+cryptography
 dash
 dash-ace
 dash-bootstrap-components

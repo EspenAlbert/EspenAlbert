@@ -27,7 +27,7 @@ When not coding, I like to climb, lift weights, walk on my hands, explore nature
 
 ## Rapidfire  
 - 𐃏  I’m currently helping [wheel.me](https://wheel.me) to develop a Robotics as a Service product where I'm in charge of the cloud
-- 🔭 I’m currently working on [pants_py_deploy](projects/pants_py_deploy.md) a [pants](https://www.pantsbuild.org/docs) plugin for making it easy to maintain docker-compose files and helm-charts across projectsπ 
+- 🔭 I’m currently working on [pants_py_deploy](https://github.com/EspenAlbert/py-libs/tree/main/_pants/pants_py_deploy) a [pants](https://www.pantsbuild.org/docs) plugin for making it easy to maintain docker-compose files and helm-charts across projects
 - 🌱 I’m currently learning Spanish, Istio, and Go
 - ❓ Ask me about anything related to the Python language  
 - ⚡ Fun fact: I use a [split keyboard](https://www.zsa.io/moonlander/) and always travel with a 27'' screen in the suitcase  

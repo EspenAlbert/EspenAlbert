@@ -1,4 +1,4 @@
-# 2023-05-01T00:00:00+00:00
+# 2023-05-08T00:00:00+00:00
 Flask
 GitPython
 Inject
@@ -8,6 +8,7 @@ PyJWT
 PyYAML
 Pympler
 SQLAlchemy
+Werkzeug
 aiocron
 aiofiles
 aiohttp
@@ -20,6 +21,7 @@ black
 boto3
 cachetools
 certifi
+compose-chart-export
 confluent-kafka
 coverage
 cryptography
@@ -30,6 +32,7 @@ datefinder
 dnspython
 docker
 docker-compose
+docker-compose-parser
 elasticsearch
 eliot-tree
 fastapi
@@ -48,9 +51,12 @@ jc
 jira
 junit2html
 junitparser
+linkify-it-py
 logmatic-python
 lxml
+markdown-it-py
 matplotlib
+model-lib
 motor
 msrest
 mypy-boto3-cloudwatch
@@ -97,7 +103,9 @@ stringcase
 tabulate
 tenacity
 twine
+typing_extensions
 uvicorn
 uvloop
 xdoctest
 yarl
+zero-3rdparty

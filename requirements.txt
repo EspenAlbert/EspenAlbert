@@ -1,4 +1,4 @@
-# 2023-05-29T00:00:00+00:00
+# 2023-06-05T00:00:00+00:00
 Flask
 GitPython
 Inject
@@ -54,12 +54,14 @@ junitparser
 linkify-it-py
 logmatic-python
 lxml
+mangum
 markdown-it-py
 matplotlib
 model-lib
 motor
 msrest
 mypy-boto3-cloudwatch
+mypy-boto3-s3
 numpy
 opencv-python-headless
 openpyxl
@@ -85,6 +87,7 @@ pytest-html
 pytest-icdiff
 pytest-regressions
 pytest-subtests
+python-can
 python-decouple
 python-dotenv
 python-gitlab
@@ -99,6 +102,7 @@ semver
 setuptools
 slack-sdk
 starlette
+stream-manager
 stringcase
 tabulate
 tenacity

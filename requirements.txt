@@ -1,4 +1,4 @@
-# 2023-06-19T00:00:00+00:00
+# 2023-06-26T00:00:00+00:00
 Flask
 GitPython
 Inject
@@ -61,6 +61,7 @@ model-lib
 motor
 msrest
 mypy-boto3-cloudwatch
+mypy-boto3-events
 mypy-boto3-s3
 numpy
 opencv-python-headless

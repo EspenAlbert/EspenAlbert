@@ -73,15 +73,15 @@ When not coding, I like to climb, lift weights, walk on my hands, explore nature
 
 ## Key metrics
 <!-- KEY-METRICS:START -->
-Key Metrics dumped @ `2023-06-30T08-03Z`
+Key Metrics dumped @ `2023-07-03T06-36Z`
 
 ### Commits
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-commit_features | 2290 | 1315 | 272 | 16
-commit_fixes | 1124 | 661 | 103 | 4
-commit_total | 5774 | 3502 | 730 | 49
+commit_features | 2290 | 1282 | 267 | 0
+commit_fixes | 1124 | 627 | 102 | 0
+commit_total | 5775 | 3393 | 695 | 1
 
 - Based on [Angular Commit message guideline](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-guidelines)
 
@@ -89,17 +89,17 @@ commit_total | 5774 | 3502 | 730 | 49
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-break% | 4.64 | 4.21 | 4.08 | 3
-deep_life% | 62.08 | 69.88 | 75 | 61
-deep_work% | 80.22 | 77.19 | 76.08 | 58
-life_days | 254 | 174 | 40 | 1
-life_hours | 480.56 | 367.23 | 118.21 | 1.75
-overtime | 364.1 | 186.82 | 26.23 | 6.62
+break% | 4.58 | 4.13 | 3.77 | 0
+deep_life% | 61.28 | 68.75 | 67.77 | 0
+deep_work% | 79.19 | 75.42 | 70 | 0
+life_days | 256 | 174 | 38 | 2
+life_hours | 487.4 | 369.97 | 118.97 | 6.84
+overtime | 364.1 | 184.59 | 26.35 | 0
 public_holidays | 20 | 11 | 9 | 0
 sick_days | 1 | 1 | 0 | 0
-vacation_days | 33 | 24 | 4 | 0
-work_days | 356 | 234 | 55 | 5
-work_hours | 2806.18 | 1851.74 | 431.19 | 44.11
+vacation_days | 38 | 29 | 9 | 5
+work_days | 356 | 229 | 50 | 0
+work_hours | 2806.18 | 1812.01 | 393.81 | 0
 
 - break% is `break_time` / `total_hours`, where break_time is going to the bathroom, pomodoro break, quick snack, coffee, etc.
 - deep_{life/work}% are inspired by [Cal Newport](https://www.calnewport.com/) where I track time either as _deep_ (focused work, e.g., coding, design writing, research, etc.) or _shallow_ (virtual meeting with many participants, slack chats, email replying, etc.)
@@ -111,18 +111,18 @@ work_hours | 2806.18 | 1851.74 | 431.19 | 44.11
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-config_add | 52734 | 37168 | 12418 | 345
-config_del | 17896 | 11526 | 3029 | 190
-docs_add | 33918 | 23250 | 3284 | 187
-docs_del | 11438 | 7059 | 1443 | 30
+config_add | 52734 | 36015 | 11855 | 0
+config_del | 17896 | 11504 | 2957 | 0
+docs_add | 33944 | 23112 | 2799 | 26
+docs_del | 11464 | 7039 | 1393 | 26
 go_add | 274 | 0 | 0 | 0
 go_del | 99 | 0 | 0 | 0
-python_add | 187309 | 119619 | 41308 | 1581
-python_del | 68248 | 38725 | 10535 | 202
-shell_add | 725 | 627 | 120 | 120
-shell_del | 173 | 173 | 6 | 6
-terraform_add | 28268 | 23954 | 5170 | 195
-terraform_del | 9610 | 8803 | 1104 | 135
+python_add | 187309 | 115513 | 40532 | 0
+python_del | 68248 | 37244 | 10460 | 0
+shell_add | 725 | 627 | 120 | 0
+shell_del | 173 | 173 | 6 | 0
+terraform_add | 28268 | 23775 | 5157 | 0
+terraform_del | 9610 | 8752 | 1100 | 0
 
 - python is for files ending in: ".py",".pyi"
 - go is for files ending in: ".go"
@@ -136,11 +136,11 @@ terraform_del | 9610 | 8803 | 1104 | 135
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
 design_spec | 12 | 6 | 0 | 0
-dockerfile | 48 | 20 | 6 | 0
-helm_chart | 47 | 23 | 11 | 0
-pypi_package | 115 | 42 | 19 | 1
+dockerfile | 48 | 19 | 5 | 0
+helm_chart | 47 | 22 | 11 | 0
+pypi_package | 115 | 42 | 16 | 0
 python_package | 43 | 28 | 5 | 0
-terraform_module | 80 | 64 | 10 | 0
+terraform_module | 80 | 63 | 10 | 0
 uml_diagram | 39 | 26 | 0 | 0
 <!-- KEY-METRICS:END -->
 - `pypi_package` are 3rd party packages used, see list in [requirements.txt](./requirements.txt)

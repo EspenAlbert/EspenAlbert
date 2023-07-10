@@ -1,4 +1,4 @@
-# 2023-07-03T00:00:00+00:00
+# 2023-07-10T00:00:00+00:00
 Flask
 GitPython
 Inject
@@ -60,7 +60,9 @@ matplotlib
 model-lib
 motor
 msrest
+mypy-boto3-ce
 mypy-boto3-cloudwatch
+mypy-boto3-dynamodb
 mypy-boto3-events
 mypy-boto3-s3
 numpy
@@ -97,6 +99,7 @@ python-semantic-release
 requests
 rich
 rx
+seaborn
 selenium
 selenium-wire
 semver

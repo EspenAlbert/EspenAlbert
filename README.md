@@ -1,4 +1,4 @@
-## Hei, hi, hola 👋 I'm Espen Albert! A freelance developer working for wheel.me
+## Hei, hi, hola 👋 I'm Espen Albert
   
 
 <a href="https://github.com/EspenAlbert" target="_blank">
@@ -11,31 +11,34 @@
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
 
-- [A list of project and roles](dev_story/01_projects_role.md)
-- [A list of side projects](projects)
-- [A list of open source contribution and events](dev_story/02_open_source_and_events.md)
-- [Stats of coding activity (Commits, LoC, terraform modules, python packages++)](commit_stats.md)
+
+### Let's create something!
+I'm a 🇳🇴 developer living in 🇪🇸 with experience in building and deploying software across the stack and clouds.
+I have most experience with Python, Terraform, and AWS, but I'm always open to use other technologies.
+I hold a master's degree in Computer Science from the Norwegian University of Science and Technology. 
+I care about every stage of the software development cycle, from idea to delivery. I'm passionate about writing clear code and building helpful tools.
+
+I have the ability to stay focused, and I'm enthusiastic about learning and improving my skills. I enjoy having a never-ending list of tools to explore and use. I actively seek feedback, and I'm happy to contribute mine. I have a positive attitude and try to take everything with a smile. I'm more of a hands-on type than a manager.
+I use systematized workflows and weekly/quarterly summaries to reflect on and plan how to allocate my time and improve my skills. 
+
+When I'm not coding, I enjoy climbing, lifting weights, walking on my hands, exploring nature, and trying new activities or sports. I believe in using code to improve the world, and I'm on a mission to build and use skills for the greater good.  
+
+<br/>
+
+- [Timeline of projects and roles](dev_story/01_projects_role.md)
+- [Side projects](projects)
+- [Open source contributions and events](dev_story/02_open_source_and_events.md)
+- [Coding Activity stats (Commits, LoC, terraform modules, python packages++)](commit_stats.md)
 - [Developer philosophy and lessons learned](dev_story/03_dev_philosophy_story_and_lessons_learned.md)
-- [A list of influences (books, podcasts, courses) I am enjoying](influences.md)
+- [Influences: books and podcasts I am enjoying](influences.md)
   
-
-### Let's create something!  
-I'm a remote full-stack developer specializing in python and working as a DevOps engineer. I have a master's degree in Computer Science from the Norwegian University of Science and technology. 
-I care about every stage of the software development cycle, from idea to delivery. I'm passionate about writing clear code and building helpful tools. 
-
-I have the ability to stay focused, and I'm obsessed with learning and improving my skills. I enjoy having a never-ending list of tools to explore and use. I seek feedback and expect to be able to share mine. I have a positive attitude and try to take everything with a smile. I'm more of a hands-on type than a manager.
-I use systematized workflows and weekly/quarterly summaries to reflect and plan how I spend time and get better. 
-
-When not coding, I like to climb, lift weights, walk on my hands, explore nature, and try new activities or sports. I believe in improving the world through code, and I'm on a mission to build and use skills for the greater good.  
-
-<br/>  
 
 
 ## Rapidfire  
 - 𐃏  I’m currently helping [wheel.me](https://wheel.me) to develop a Robotics as a Service product where I'm part of the team in charge of the cloud and CI/CD pipelines
 - 🔭 I’m currently working on `log-tree` a python library for printing human-readable trees instead of log messages
 - 🌱 I’m currently learning Spanish, serverless, home-automation, and observability best practices
-- ❓ Ask me about anything related to the Python language  
+- ❓ Feel free to ask me anything related to the Python language  
 - ⚡ Fun fact: I use a [split keyboard](https://www.zsa.io/moonlander/) and always travel with a 27'' screen in the suitcase  
 <br/>  
 

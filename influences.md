@@ -1,19 +1,18 @@
 # Influences
 
-## Podcasts (listen rate)
+## Podcasts
 - I use [Podcast Addict](https://podcastaddict.com/) to download podcasts
 - Then I set the backup folder to a Google Drive synced folder, that enables me to run a script for syncing the DB and see what new episodes I have listened to this week
 - I consume about 1-5 episodes a week
 
-### < Monthly
-- 80,000 Hours Podcast
-- Against the Rules with Michael Lewis
-- Making Sense with Sam Harris
-- Revisionist History (Pushkin Industries)
-- The Joe Rogan Experience
-- The Real Python Podcast
+### Listen on a Weekly basis
+- Deep Questions with Cal Newport
+- Lex Fridman Podcast
+- The Tim Ferriss Show
+- Talk Python To Me (Michael Kennedy (@mkennedy))
+- Test and Code (Brian Okken)
 
-### Monthly
+### Listen on a Monthly basis
 - How I Built This with Guy Raz
 - Huberman Lab
 - Python Bytes (Michael Kennedy and Brian Okken)
@@ -21,14 +20,15 @@
 - The New Stack Podcast
 - The Python `Podcast.__init__` (Tobias Macey)
 
-### Weekly
-- Deep Questions with Cal Newport
-- Lex Fridman Podcast
-- The Tim Ferriss Show
-- Talk Python To Me (Michael Kennedy (@mkennedy))
-- Test and Code (Brian Okken)
+### Listening only once in a while
+- 80,000 Hours Podcast
+- Against the Rules with Michael Lewis
+- Making Sense with Sam Harris
+- Revisionist History (Pushkin Industries)
+- The Joe Rogan Experience
+- The Real Python Podcast
 
-## Books (read year)
+## Books read
 - I like to read books on a Kindle. It makes it easy to export highlights+notes and I use [Calibre](https://calibre-ebook.com/) to find paragraphs on the computer.
 - I try to use the exported notes/highlights to make flashcards
 
@@ -76,6 +76,4 @@
 - MongoDB Applied Design Patterns by Rick Copeland
 
 ## Audiobooks
-- I use [audible](https://www.audible.com/library/titles)
-- I try to listen to one audiobook a month but on average I listen a bit less
-- The titles I choose are sometimes developer related but most of the time not
+I use [audible](https://www.audible.com/library/titles) and try to listen to one audiobook a month but on average I listen a bit less 😅

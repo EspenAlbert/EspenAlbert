@@ -14,7 +14,7 @@
 - [A list of project and roles](dev_story/01_projects_role.md)
 - [A list of side projects](projects)
 - [A list of open source contribution and events](dev_story/02_open_source_and_events.md)
-- [Stats of coding activity (LoC, languages++)](commit_stats.md)
+- [Stats of coding activity (Commits, LoC, terraform modules, python packages++)](commit_stats.md)
 - [Developer philosophy and lessons learned](dev_story/03_dev_philosophy_story_and_lessons_learned.md)
 - [A list of influences (books, podcasts, courses) I am enjoying](influences.md)
   

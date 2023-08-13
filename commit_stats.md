@@ -1,4 +1,11 @@
 ## Key metrics
+- Only started dumping data from 2022
+- Once a week I scan all repos (public and private) from different version control sources (Github, Gitlab, etc.) and gather specific data, see [projects/01_commit_stats](projects/01_commit_stats.md) for details 
+- Column explanations: 
+  - Δ 52w means the last year (52 weeks)
+  - Δ 13w means last quarter (13 weeks)
+  - Δ 1w means the last week
+
 <!-- KEY-METRICS:START -->
 Key Metrics dumped @ `2023-08-13T19-22Z`
 

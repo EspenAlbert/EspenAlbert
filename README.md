@@ -12,6 +12,7 @@
 </a>
 
 - [A list of project and roles](dev_story/01_projects_role.md)
+- [A list of side projects](projects)
 - [A list of open source contribution and events](dev_story/02_open_source_and_events.md)
 - [Stats of coding activity (LoC, languages++)](commit_stats.md)
 - [Developer philosophy and lessons learned](dev_story/03_dev_philosophy_story_and_lessons_learned.md)
@@ -32,7 +33,7 @@ When not coding, I like to climb, lift weights, walk on my hands, explore nature
 
 ## Rapidfire  
 - 𐃏  I’m currently helping [wheel.me](https://wheel.me) to develop a Robotics as a Service product where I'm part of the team in charge of the cloud and CI/CD pipelines
-- 🔭 I’m currently working on [pants_py_deploy](https://github.com/EspenAlbert/py-libs/tree/main/_pants/pants_py_deploy) a [pants](https://www.pantsbuild.org/docs) plugin for making it easy to maintain docker-compose files and helm-charts across projects
+- 🔭 I’m currently working on `log-tree` a python library for printing human-readable trees instead of log messages
 - 🌱 I’m currently learning Spanish, serverless, home-automation, and observability best practices
 - ❓ Ask me about anything related to the Python language  
 - ⚡ Fun fact: I use a [split keyboard](https://www.zsa.io/moonlander/) and always travel with a 27'' screen in the suitcase  

@@ -29,7 +29,7 @@
 - Test and Code (Brian Okken)
 
 ## Books (read year)
-- I like to read books on a Kindle. It makes it easy to export highlights+notes and use [Calibre](https://calibre-ebook.com/) to find paragraphs on the computer.
+- I like to read books on a Kindle. It makes it easy to export highlights+notes and I use [Calibre](https://calibre-ebook.com/) to find paragraphs on the computer.
 - I try to use the exported notes/highlights to make flashcards
 
 ### 2019
@@ -78,4 +78,4 @@
 ## Audiobooks
 - I use [audible](https://www.audible.com/library/titles)
 - I try to listen to one audiobook a month but on average I listen a bit less
-- The titles I choose are sometimes developer relates but most of the time not
+- The titles I choose are sometimes developer related but most of the time not

@@ -22,7 +22,7 @@
 - Start using the open source build tool [pants](https://www.pantsbuild.org/docs) for linting, testing, dependency management, and packaging. Creating a few custom plugins for docker build, environment variables in docker-compose files and helm-chart exporting 
 - A python service running selenium based tests by reading yaml files and using screenshots+OCR (optical character recognition) to test a flutter app
 
-## Year 3: 2019-2020 Transition from fullstack Developer to Backend Developer
+## Year 3: 2019-2020 Transition from Full Stack Developer to Backend Developer
 - Move away from actively developing the javascript frontend to only review a new flutter based frontend
 - Various side projects using [dash](https://dash.plotly.com/) for building UIs to manage personal finances and flashcards
 - Continue building a backend in Python moving from flask-socketio to grpc and building smaller microservices with [FastAPI](https://fastapi.tiangolo.com/)

@@ -12,8 +12,8 @@
 - A SSO (single-sign-on) system containing two [FastAPIs](https://fastapi.tiangolo.com/) deployable as Istio External Authentication or as an AWS Lambda function
 
 ## Year 5: 2021-2022 DevOps Engineer
-- Custom CI system written in python and terraform. Event driven microservices using Kafka and MongoDB with a [dash ui](https://dash.plotly.com/). Integrating with gitlab to show build statuses and run custom runners on AWS that supports "docker-compose" based testing with a custom pytest format and publishing test reports and alerts to slack.
-- Deployment system using a [kOps](https://kops.sigs.k8s.io/) managed kubernetes cluster and [fluxcd](https://fluxcd.io/flux/) with [sops](https://github.com/getsops/sops) and support local testing with [kind (kubernetes)](https://kind.sigs.k8s.io/). Modified [telegraf-operator](https://github.com/influxdata/telegraf-operator) to simplify sidecar injection and metrics published
+- Custom CI system written in python and terraform. Event-driven microservices using Kafka and MongoDB with a [Dash UI](https://dash.plotly.com/). Integrating with gitlab to show build statuses and run custom runners on AWS that supports "docker-compose" based testing with a custom pytest format and publishing test reports and alerts to slack.
+- A GitOps based deployment system using a [kOps](https://kops.sigs.k8s.io/) managed kubernetes cluster and [Flux 2](https://fluxcd.io/flux/) with [SOPS](https://github.com/getsops/sops). Service mesh using Istio Operator. Monitoring with a modified [Telegraf-Operator](https://github.com/influxdata/telegraf-operator) to simplify sidecar injection and metrics. Local testing with [kind](https://kind.sigs.k8s.io/)
 
 ## Year 4: 2020-2021 Transition from Backend Developer to DevOps Engineer
 - A python grpc api using MongoDB, postgresql, and rabbitmq to communicate with robots and frontends

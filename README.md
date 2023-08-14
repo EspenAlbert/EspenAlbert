@@ -13,10 +13,10 @@
 
 
 ### Let's create something!
-I'm a 🇳🇴 developer living in 🇪🇸 with experience in building and deploying software across the stack and clouds.
-I have most experience with Python, Terraform, and AWS, but I'm always open to use other technologies.
+I'm a 🇳🇴 developer living in 🇪🇸 with six years of experience in building and deploying software across the stack and clouds.
+I have the most experience with Python, Terraform, and AWS, but I'm always open to using other technologies.
 I hold a master's degree in Computer Science from the Norwegian University of Science and Technology. 
-I care about every stage of the software development cycle, from idea to delivery. I'm passionate about writing clear code and building helpful tools.
+I care about every stage of the software development cycle, from idea to delivery. I'm passionate about writing clear code, building helpful tools, and contributing to open-source.
 
 I have the ability to stay focused, and I'm enthusiastic about learning and improving my skills. I enjoy having a never-ending list of tools to explore and use. I actively seek feedback, and I'm happy to contribute mine. I have a positive attitude and try to take everything with a smile. I'm more of a hands-on type than a manager.
 I use systematized workflows and weekly/quarterly summaries to reflect on and plan how to allocate my time and improve my skills. 
@@ -25,6 +25,7 @@ When I'm not coding, I enjoy climbing, lifting weights, walking on my hands, exp
 
 <br/>
 
+- [CV](attachments/cv.pdf)
 - [Timeline of projects and roles](dev_story/01_projects_role.md)
 - [Side projects](projects)
 - [Open source contributions and events](dev_story/02_open_source_and_events.md)

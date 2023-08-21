@@ -1,4 +1,4 @@
-# 2023-08-14T00:00:00+00:00
+# 2023-08-21T00:00:00+00:00
 Flask
 GitPython
 Inject
@@ -60,6 +60,7 @@ matplotlib
 model-lib
 motor
 msrest
+mypy
 mypy-boto3-ce
 mypy-boto3-cloudwatch
 mypy-boto3-dynamodb

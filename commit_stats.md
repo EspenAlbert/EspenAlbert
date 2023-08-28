@@ -7,15 +7,15 @@
   - Δ 1w means the last week
 
 <!-- KEY-METRICS:START -->
-Key Metrics dumped @ `2023-08-21T06-53Z`
+Key Metrics dumped @ `2023-08-28T05-44Z`
 
 ### Commits
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-commit_features | 2385 | 1084 | 198 | 10
-commit_fixes | 1174 | 531 | 77 | 5
-commit_total | 6206 | 3097 | 673 | 83
+commit_features | 2397 | 1061 | 192 | 12
+commit_fixes | 1177 | 517 | 76 | 3
+commit_total | 6276 | 3076 | 703 | 70
 
 - Based on [Angular Commit message guideline](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-guidelines)
 
@@ -23,18 +23,18 @@ commit_total | 6206 | 3097 | 673 | 83
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-config_add | 56231 | 34955 | 9128 | 676
-config_del | 19672 | 12230 | 2624 | 730
-docs_add | 35121 | 19074 | 2482 | 64
-docs_del | 12106 | 5952 | 1288 | 16
+config_add | 56531 | 34740 | 9081 | 300
+config_del | 19771 | 12201 | 2514 | 99
+docs_add | 35623 | 19205 | 2734 | 502
+docs_del | 12335 | 6018 | 1489 | 229
 go_add | 274 | 0 | 0 | 0
 go_del | 99 | 0 | 0 | 0
-python_add | 198649 | 107033 | 27829 | 1041
-python_del | 74110 | 34614 | 8101 | 604
-shell_add | 759 | 661 | 154 | 1
-shell_del | 230 | 230 | 63 | 1
-terraform_add | 30291 | 24678 | 5702 | 1
-terraform_del | 10392 | 9263 | 1626 | 1
+python_add | 200025 | 106665 | 24700 | 1376
+python_del | 74556 | 34333 | 7635 | 446
+shell_add | 759 | 661 | 154 | 0
+shell_del | 230 | 230 | 63 | 0
+terraform_add | 30291 | 24608 | 5701 | 0
+terraform_del | 10392 | 9244 | 1626 | 0
 
 - python is for files ending in: ".py",".pyi"
 - go is for files ending in: ".go"
@@ -50,9 +50,9 @@ Metric | Total | Δ 52w | Δ 13w | Δ 1w
 design_spec | 12 | 6 | 0 | 0
 dockerfile | 48 | 15 | 1 | 0
 helm_chart | 47 | 18 | 1 | 0
-pypi_package | 121 | 35 | 11 | 1
+pypi_package | 124 | 35 | 14 | 3
 python_package | 46 | 26 | 3 | 0
-terraform_module | 83 | 61 | 8 | 0
+terraform_module | 83 | 60 | 8 | 0
 uml_diagram | 39 | 21 | 0 | 0
 <!-- KEY-METRICS:END -->
 - `pypi_package` are 3rd party packages used, see list in [requirements.txt](./requirements.txt)

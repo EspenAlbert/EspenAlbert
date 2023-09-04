@@ -1,9 +1,10 @@
-# 2023-08-28T00:00:00+00:00
+# 2023-09-04T00:00:00+00:00
 Flask
 GitPython
 Inject
 Jinja2
 Pillow
+PyGithub
 PyJWT
 PyYAML
 Pympler

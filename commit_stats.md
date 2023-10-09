@@ -7,15 +7,15 @@
   - Δ 1w means the last week
 
 <!-- KEY-METRICS:START -->
-Key Metrics dumped @ `2023-10-02T05-56Z`
+Key Metrics dumped @ `2023-10-09T05-36Z`
 
 ### Commits
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-commit_features | 2459 | 1065 | 169 | 18
-commit_fixes | 1192 | 510 | 68 | 9
-commit_total | 6525 | 3195 | 750 | 88
+commit_features | 2459 | 1065 | 157 | 0
+commit_fixes | 1194 | 512 | 61 | 2
+commit_total | 6533 | 3202 | 689 | 8
 
 - Based on [Angular Commit message guideline](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-guidelines)
 
@@ -23,18 +23,18 @@ commit_total | 6525 | 3195 | 750 | 88
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-config_add | 60278 | 37632 | 7544 | 1666
-config_del | 22003 | 14397 | 4107 | 754
-docs_add | 36229 | 18642 | 2285 | 201
-docs_del | 12497 | 6000 | 1033 | 72
+config_add | 60349 | 37703 | 7171 | 71
+config_del | 22165 | 14559 | 4106 | 162
+docs_add | 36249 | 18559 | 2267 | 20
+docs_del | 12517 | 6020 | 1011 | 20
 go_add | 1646 | 1372 | 1372 | 0
 go_del | 102 | 3 | 3 | 0
-python_add | 208606 | 106990 | 21297 | 2506
-python_del | 75876 | 33404 | 7628 | 492
-shell_add | 774 | 676 | 49 | 12
-shell_del | 232 | 232 | 59 | 0
-terraform_add | 31169 | 25486 | 2901 | 146
-terraform_del | 10746 | 9598 | 1136 | 186
+python_add | 208621 | 107005 | 20255 | 15
+python_del | 75878 | 33406 | 6883 | 2
+shell_add | 774 | 676 | 49 | 0
+shell_del | 232 | 232 | 10 | 0
+terraform_add | 31173 | 25490 | 2473 | 4
+terraform_del | 10748 | 9600 | 1138 | 2
 
 - python is for files ending in: ".py",".pyi"
 - go is for files ending in: ".go"
@@ -47,13 +47,13 @@ terraform_del | 10746 | 9598 | 1136 | 186
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-design_spec | 12 | 12 | 0 | 0
-dockerfile | 51 | 51 | 3 | 2
-helm_chart | 51 | 51 | 4 | 3
-pypi_package | 127 | 127 | 12 | 0
-python_package | 46 | 46 | 3 | 0
-terraform_module | 87 | 87 | 7 | 1
-uml_diagram | 39 | 39 | 0 | 0
+design_spec | 12 | 5 | 0 | 0
+dockerfile | 52 | 18 | 4 | 1
+helm_chart | 51 | 21 | 4 | 0
+pypi_package | 127 | 36 | 9 | 0
+python_package | 46 | 25 | 2 | 0
+terraform_module | 87 | 64 | 6 | 0
+uml_diagram | 39 | 17 | 0 | 0
 <!-- KEY-METRICS:END -->
 - `pypi_package` are 3rd party packages used, see list in [requirements.txt](./requirements.txt)
 - `python_package` are local packages I have created

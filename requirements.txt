@@ -1,4 +1,4 @@
-# 2023-10-09T00:00:00+00:00
+# 2023-11-06T00:00:00+00:00
 Flask
 GitPython
 Inject
@@ -70,6 +70,7 @@ mypy-boto3-ec2
 mypy-boto3-events
 mypy-boto3-s3
 mypy-boto3-secretsmanager
+mypy-boto3-ssm
 numpy
 opencv-python-headless
 openpyxl

@@ -1,4 +1,4 @@
-# 2023-12-18T00:00:00+00:00
+# 2023-12-25T00:00:00+00:00
 Flask
 GitPython
 Inject
@@ -30,6 +30,9 @@ cryptography
 dash
 dash-ace
 dash-bootstrap-components
+dash-core-components
+dash-html-components
+dash-table
 datefinder
 dnspython
 docker

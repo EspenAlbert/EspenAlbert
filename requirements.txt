@@ -1,4 +1,4 @@
-# 2023-12-25T00:00:00+00:00
+# 2024-01-01T00:00:00+00:00
 Flask
 GitPython
 Inject
@@ -41,6 +41,7 @@ docker-compose-parser
 elasticsearch
 eliot-tree
 fastapi
+fastui
 gitlint
 grafana-api
 grafanalib
@@ -51,6 +52,7 @@ gunicorn
 httpx
 humanize
 influxdb-client
+influxdb3-python
 itsdangerous
 jc
 jira
@@ -71,6 +73,7 @@ mypy-boto3-cloudwatch
 mypy-boto3-dynamodb
 mypy-boto3-ec2
 mypy-boto3-events
+mypy-boto3-kms
 mypy-boto3-s3
 mypy-boto3-secretsmanager
 mypy-boto3-ssm
@@ -84,10 +87,13 @@ pandas
 paramiko
 pika
 pip-tools
+plotly
 protobuf
 psycopg2-binary
+pyarrow
 pydantic
 pydantic-settings
+pydantic_core
 pygments
 pygrok
 pyhcl

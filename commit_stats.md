@@ -7,15 +7,15 @@
   - Δ 1w means the last week
 
 <!-- KEY-METRICS:START -->
-Key Metrics dumped @ `2024-01-08T01-17Z`
+Key Metrics dumped @ `2024-01-15T01-13Z`
 
 ### Commits
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-commit_features | 2558 | 843 | 99 | 10
-commit_fixes | 1232 | 335 | 40 | 0
-commit_total | 6862 | 2707 | 337 | 17
+commit_features | 2582 | 837 | 123 | 24
+commit_fixes | 1242 | 324 | 48 | 10
+commit_total | 6916 | 2639 | 383 | 54
 
 - Based on [Angular Commit message guideline](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-guidelines)
 
@@ -23,18 +23,18 @@ commit_total | 6862 | 2707 | 337 | 17
 
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
-config_add | 64281 | 34442 | 4003 | 44
-config_del | 23465 | 13132 | 1462 | 16
-docs_add | 36761 | 11922 | 532 | 39
-docs_del | 12684 | 4429 | 187 | 18
-go_add | 2841 | 2567 | 1195 | 0
-go_del | 253 | 154 | 151 | 0
-python_add | 217257 | 90198 | 8651 | 1600
-python_del | 79760 | 28254 | 3884 | 869
-shell_add | 849 | 567 | 75 | 0
-shell_del | 248 | 248 | 16 | 0
-terraform_add | 35713 | 19796 | 4544 | 701
-terraform_del | 12545 | 8168 | 1799 | 231
+config_add | 64318 | 32307 | 3969 | 37
+config_del | 23470 | 10349 | 1305 | 5
+docs_add | 36796 | 11510 | 547 | 35
+docs_del | 12708 | 4226 | 191 | 24
+go_add | 3637 | 3363 | 1991 | 796
+go_del | 317 | 218 | 215 | 64
+python_add | 220307 | 92082 | 11686 | 3050
+python_del | 81020 | 29273 | 5142 | 1260
+shell_add | 854 | 378 | 80 | 5
+shell_del | 248 | 120 | 16 | 0
+terraform_add | 36063 | 18990 | 4890 | 350
+terraform_del | 12699 | 6450 | 1951 | 154
 
 - python is for files ending in: ".py",".pyi"
 - go is for files ending in: ".go"
@@ -48,11 +48,11 @@ terraform_del | 12545 | 8168 | 1799 | 231
 Metric | Total | Δ 52w | Δ 13w | Δ 1w
 --- | --- | --- | --- | ---
 design_spec | 12 | 2 | 0 | 0
-dockerfile | 53 | 17 | 2 | 0
-helm_chart | 51 | 19 | 0 | 0
-pypi_package | 137 | 45 | 10 | 0
+dockerfile | 55 | 18 | 3 | 2
+helm_chart | 51 | 16 | 0 | 0
+pypi_package | 138 | 46 | 11 | 1
 python_package | 46 | 11 | 0 | 0
-terraform_module | 91 | 45 | 4 | 0
+terraform_module | 92 | 42 | 5 | 1
 uml_diagram | 39 | 7 | 0 | 0
 <!-- KEY-METRICS:END -->
 - `pypi_package` are 3rd party packages used, see list in [requirements.txt](./requirements.txt)

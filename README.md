@@ -36,9 +36,9 @@ When I'm not coding, I enjoy climbing, lifting weights, walking on my hands, exp
 
 
 ## Rapidfire  
-- 𐃏  I’m currently helping [wheel.me](https://wheel.me) to develop a Robotics as a Service product where I'm part of the team in charge of the cloud and CI/CD pipelines
-- 🔭 I’m currently working on `log-tree` a python library for printing human-readable trees instead of log messages
-- 🌱 I’m currently learning Spanish, serverless, home-automation, and observability best practices
+- 𐃏  I’m about to start a new job in [MongoDB](https://www.mongodb.com/)
+- 🔭 I’m currently working on [Commit Stats](https://commit-stats.ealbert.org/) a tool for analyzing your code
+- 🌱 I’m currently learning Spanish, Golang, and observability best practices
 - ❓ Feel free to ask me anything related to the Python language  
 - ⚡ Fun fact: I use a [split keyboard](https://www.zsa.io/moonlander/) and always travel with a 27'' screen in the suitcase  
 <br/>  

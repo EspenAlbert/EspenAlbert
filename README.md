@@ -30,8 +30,8 @@ I'm hands-on by nature, enthusiastic about learning new tools, and currently col
 
 
 ## Rapidfire  
-- 𐃏  I’m about to start a new job in [MongoDB](https://www.mongodb.com/)
-- 🔭 I’m currently working on [Commit Stats](https://commit-stats.ealbert.org/) a tool for analyzing your code
+- 𐃏  I’m working for [MongoDB](https://www.mongodb.com/)
+- 🔭 I’m currently working on [Pkg Ext](https://github.com/EspenAlbert/pkg-ext) and other Python packages to improve my Python skills, work with AI, and publish beautiful packages.
 - 🌱 I’m currently learning Spanish, Golang, and observability best practices
 - ❓ Feel free to ask me anything related to the Python language  
 - ⚡ Fun fact: I use a [split keyboard](https://www.zsa.io/moonlander/) and always travel with a 27'' screen in the suitcase  

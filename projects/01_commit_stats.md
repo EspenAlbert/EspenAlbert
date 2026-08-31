@@ -32,6 +32,7 @@ from typing import Any, Protocol, Type, Callable
 
 from git import Repo, Commit, Git, GitCommandError
 
+
 def file_content(git: Git, commit: str, file: str) -> str:
     try:
         return git.show(f"{commit}:{file}")
